@@ -25,3 +25,4 @@ word sent:  check 3 - true
 connected..
 word sent:  a10 - false
 word sent:  a12 - true
+
